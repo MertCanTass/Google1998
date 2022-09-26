@@ -1,0 +1,25 @@
+.tablex {
+    border:0;
+    width: 90%;
+}
+.tdd {
+        background: #EEEEEE;
+        column-span:3;
+}
+.center {
+        display:block;
+        text-align:-webkit-center;
+}
+.table{
+    border-collapse: separate;
+    text-indent: initial;
+    white-space: normal;
+    line-height: normal;
+    font-weight: normal;
+    font-size: medium;
+    font-style: normal;
+    color: -internal-quirk-inherit;
+    text-align: start;
+    border-spacing: 2px;
+    font-variant: normal;
+}
